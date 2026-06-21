@@ -37,7 +37,7 @@ Welcome to my terminal. I'm **Filipe**, operating under the alias **NullUmbraTak
 ### 🛠️ ARSENAL & TECH_STACK
 
 * **LANGUAGES:** `Python` // `Ruby` // `Bash` // `Batch` // `SQL`
-* **INFRASTRUCTURE:** `Linux (Ubuntu)` // `Windows Server` // `Active Directory` // `DNS & DHCP` // `Nginx`
+* **INFRASTRUCTURE:** `Linux` // `Windows` // `Active Directory` // `DNS & DHCP` // `Nginx`
 * **OFFENSIVE TOOLS & FORENSICS:** `Metasploit` // `Nmap` // `OWASP ZAP` // `Nessus` // `Autopsy`
 
 ---
